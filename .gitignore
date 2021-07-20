@@ -2,3 +2,4 @@
 *.pyo
 *.pyc
 *.pyb
+/env.sh
